@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html id="main">
+<style>
+    body {
+        background-color: #CCFFFF;
+    }
+    form {
+        text-align: center;
+        margin: 0 auto;
+        max-width: 40%;
+        background-color: #FFFFCC;
+    }
+    h1 {
+        text-align: center;
+        font-family: YouYuan;
+        color: #996633;
+    }
+    p, label {
+        text-align: center;
+        font-family: YouYuan;
+        font-size: 25px;
+        color: #666666;
+    }
+    .leftTab {
+        display: inline-block;
+        text-align: right;
+        width: 25%;
+        padding: 5px;
+        vertical-align: middle;
+        margin: 10px;
+    }
+    .rightTab {
+        display: inline-block;
+        text-align: left;
+        width: 60%;
+        vertical-align: middle;
+    }
+    .age, .hobby {
+        float: left;
+        left: 18px;
+        top: 4px;
+    }
+    .radio, .checkbox {
+        position: relative;
+        left: -50px;
+        margin-left: 10px;
+        display: block;
+    }
+    button {
+        text-align: center;
+        font-family: YouYuan;
+        font-size: 20px;
+        width: 20%;
+        color: #666666;
+    }
+    .sub {
+        margin: 10px;
+        padding-bottom: 10px;
+    }
+</style>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.6.3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+    <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+    <h1 id="title">调查问卷</h1>
+    <p id="description"> 这是无聊的调查问卷 </p>
+    <p> 这是FCC的第二个项目： Survey Form </p>
+    <p> <a href="https://codepen.io/ontheway12138/pen/pBOebG" class="fas fa-fw">CodePen</a> </p>
+    <form id="survey-form">
+        <div class="leftTab">
+            <label id="name-label" for="name">  *姓名： </label>
+        </div>
+        <div class="rightTab">
+            <input type="text" id="name" class="form-control" placeholder="请输入您的姓名" required>
+        </div>
+        <div class="leftTab">
+            <label id="email-label" for="email">  *邮箱： </label>
+        </div>
+        <div class="rightTab">
+            <input type="email" id="email" class="form-control" placeholder="请输入您的邮箱" required>
+        </div>
+        <div class="leftTab">
+            <label id="number-label" for="number"> *手机： </label>
+        </div>
+        <div class="rightTab">
+            <input type="number" id="number" min="1" max="11111" class="form-control" placeholder="请输入您的手机号" required>
+        </div>
+        <div class="leftTab">
+            <label for="dropdown"> *性别： </label>
+        </div>
+        <div class="rightTab">
+            <select type="dropdown" id="dropdown" class="form-control">
+                <option disabled value> 请选择您的性别 </option>
+                <option value="men"> 男 </option>
+                <option value="women"> 女 </option>
+            </select>
+        </div>
+        <div class="leftTab">
+            <label> *年龄： </label>
+        </div>
+        <div class="rightTab">
+            <ul> 
+                <li class="radio">
+                    <label>小于30岁<input class="age" name="radio-buttons" value="1" type="radio"></label>
+                </li>
+                <li class="radio">
+                    <label>大于30岁<input class="age" name="radio-buttons" value="2" type="radio"></label>
+                </li>
+            </ul>
+        </div>
+        <div class="leftTab">
+            <label> 爱好： </label>
+        </div>
+        <div class="rightTab">
+            <ul>
+                <li class="checkbox">
+                    <label>电影<input class="hobby" name="checkbox-buttons" value="1" type="checkbox"></label>
+                </li>
+                <li class="checkbox">
+                    <label>音乐<input class="hobby" name="checkbox-buttons" value="2" type="checkbox"></label>
+                </li>
+            </ul>
+        </div>
+        <div class="leftTab">
+            <label> 其他： </label>
+        </div>
+        <div class="rightTab">
+            <textarea id="else" name="else" placeholder="写下一些东西" class="form-control"></textarea>
+        </div>
+        <div class="sub">
+            <button id="submit" type="submit" class="btn btn-primary"> 提交 </button>
+        </div>
+    </form>
+</html>
