@@ -208,7 +208,11 @@
                 alert('点击右上角切换水果');
             }
             function changeScore() {
-                extraScore = prompt('请输入分数加成数字', '1').trim();
+                let extraScoreStr = '';
+                while (isNaN(parseInt(extraScoreStr))) {
+                    extraScoreStr = prompt('请输入分数加成数字：输入大于 0 的任意数', '30').trim();
+                }
+                extraScore = parseInt(extraScoreStr);
             }
             function qtan() {
                 fruitQTan = prompt('让水果更 Q 弹：输入大于 0 的任意数（推荐 0.9）', '0.9');
