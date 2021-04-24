@@ -57,10 +57,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "椰子",
-      "texture": "18858a142",
+      "texture": "4bvNoenrRPVpT4typ0IiYM",
       "rect": [
-        555,
-        372,
+        0,
+        0,
         24,
         41
       ],
@@ -71,34 +71,6 @@
       "originalSize": [
         24,
         41
-      ],
-      "rotated": 1,
-      "capInsets": [
-        0,
-        0,
-        0,
-        0
-      ]
-    }
-  },
-  {
-    "__type__": "cc.SpriteFrame",
-    "content": {
-      "name": "red1",
-      "texture": "2aVuPXzP5Boro6KKQRYgP2",
-      "rect": [
-        0,
-        0,
-        124,
-        156
-      ],
-      "offset": [
-        0,
-        0
-      ],
-      "originalSize": [
-        124,
-        156
       ],
       "capInsets": [
         0,
@@ -112,10 +84,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "西瓜",
-      "texture": "1b81b7730",
+      "texture": "56S6YgalVMvqWmb6Pt2AFR",
       "rect": [
-        300,
-        301,
+        3,
+        4,
         302,
         302
       ],
@@ -139,10 +111,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "西红柿",
-      "texture": "18858a142",
+      "texture": "a9jxOwyflFwacoRm5yk4u8",
       "rect": [
-        3,
-        727,
+        1,
+        0,
         318,
         292
       ],
@@ -226,10 +198,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "椰子1",
-      "texture": "18858a142",
+      "texture": "3eX+ScAINKMbfp34P/uuqw",
       "rect": [
-        555,
-        327,
+        0,
+        1,
         38,
         39
       ],
@@ -280,10 +252,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "4",
-      "texture": "1c9e457da",
+      "texture": "ffGAgcvZ1IuYRZ9pFs0gwO",
       "rect": [
-        32,
-        3,
+        0,
+        0,
         18,
         14
       ],
@@ -307,10 +279,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "1",
-      "texture": "1c9e457da",
+      "texture": "5fkyBCD0JE+p9H4+pJhQgH",
       "rect": [
-        194,
-        3,
+        0,
+        0,
         28,
         22
       ],
@@ -460,10 +432,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "菠萝1",
-      "texture": "18858a142",
+      "texture": "e5J9mN/hBOOan+5gBVTgxD",
       "rect": [
-        599,
-        327,
+        0,
+        1,
         38,
         39
       ],
@@ -487,10 +459,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "猕猴桃",
-      "texture": "18858a142",
+      "texture": "68JBmQV/xDqr8o7ceMaAj/",
       "rect": [
-        602,
-        372,
+        0,
+        0,
         24,
         41
       ],
@@ -502,7 +474,6 @@
         24,
         41
       ],
-      "rotated": 1,
       "capInsets": [
         0,
         0,
@@ -515,10 +486,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "葡萄",
-      "texture": "18858a142",
+      "texture": "86o1FnGmRDRqw4ROp3tDhh",
       "rect": [
-        649,
-        372,
+        0,
+        0,
         24,
         41
       ],
@@ -530,7 +501,6 @@
         24,
         41
       ],
-      "rotated": 1,
       "capInsets": [
         0,
         0,
@@ -570,10 +540,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "西瓜",
-      "texture": "18858a142",
+      "texture": "eadLsWqWRFU7BRdOK2gj50",
       "rect": [
-        317,
-        413,
+        1,
+        0,
         318,
         292
       ],
@@ -584,33 +554,6 @@
       "originalSize": [
         319,
         292
-      ],
-      "capInsets": [
-        0,
-        0,
-        0,
-        0
-      ]
-    }
-  },
-  {
-    "__type__": "cc.SpriteFrame",
-    "content": {
-      "name": "icon31",
-      "texture": "f03MdYdsFK/Y789l5glDHQ",
-      "rect": [
-        0,
-        0,
-        171,
-        152
-      ],
-      "offset": [
-        0,
-        0
-      ],
-      "originalSize": [
-        171,
-        152
       ],
       "capInsets": [
         0,
@@ -650,11 +593,38 @@
   {
     "__type__": "cc.SpriteFrame",
     "content": {
-      "name": "橘子",
-      "texture": "18858a142",
+      "name": "fuli2",
+      "texture": "8cUqhRmWlHApmXCiyp9Ddz",
       "rect": [
-        327,
-        711,
+        39,
+        38,
+        139,
+        137
+      ],
+      "offset": [
+        0.5,
+        1.5
+      ],
+      "originalSize": [
+        216,
+        216
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "橘子",
+      "texture": "64NDfStvpAaoE9VodJ4IXS",
+      "rect": [
+        1,
+        0,
         318,
         292
       ],
@@ -678,10 +648,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "菠萝",
-      "texture": "1b81b7730",
+      "texture": "84vJ1Ag9BIDLRqPvWeYD4U",
       "rect": [
-        300,
-        609,
+        0,
+        0,
         258,
         258
       ],
@@ -705,10 +675,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "葡萄",
-      "texture": "18858a142",
+      "texture": "4eGaGBr25O8Yrca6vsF3PA",
       "rect": [
-        413,
-        3,
+        1,
+        0,
         318,
         292
       ],
@@ -720,7 +690,6 @@
         319,
         292
       ],
-      "rotated": 1,
       "capInsets": [
         0,
         0,
@@ -733,10 +702,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "菠萝",
-      "texture": "18858a142",
+      "texture": "b7kf5xpnlLtrQ0iYcrZFkK",
       "rect": [
-        641,
-        402,
+        1,
+        0,
         318,
         292
       ],
@@ -787,10 +756,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "橘子",
-      "texture": "1b81b7730",
+      "texture": "d0xnbkCVZKA5Cv/uAoz6vk",
       "rect": [
-        608,
-        384,
+        0,
+        0,
         108,
         108
       ],
@@ -814,10 +783,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "猕猴桃1",
-      "texture": "18858a142",
+      "texture": "e4msy+peJNTJJJTOkm2bmX",
       "rect": [
-        819,
-        327,
+        1,
+        1,
         37,
         39
       ],
@@ -841,10 +810,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "樱桃",
-      "texture": "18858a142",
+      "texture": "0cuz27KoVCpb4hmDlhHlr3",
       "rect": [
-        413,
-        327,
+        1,
+        1,
         78,
         78
       ],
@@ -1102,10 +1071,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "西瓜1",
-      "texture": "18858a142",
+      "texture": "00/EFfjElOWId9B1zBG65K",
       "rect": [
-        862,
-        327,
+        1,
+        1,
         37,
         39
       ],
@@ -1129,10 +1098,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "橘子",
-      "texture": "18858a142",
+      "texture": "69tmDgTPdFhq8xJ8xIlHuN",
       "rect": [
-        696,
-        372,
+        0,
+        0,
         24,
         41
       ],
@@ -1144,7 +1113,6 @@
         24,
         41
       ],
-      "rotated": 1,
       "capInsets": [
         0,
         0,
@@ -1157,10 +1125,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "樱桃1",
-      "texture": "18858a142",
+      "texture": "174oR9KZhO9JbV7v4xE3ww",
       "rect": [
-        643,
-        327,
+        0,
+        1,
         38,
         39
       ],
@@ -1171,33 +1139,6 @@
       "originalSize": [
         38,
         40
-      ],
-      "capInsets": [
-        0,
-        0,
-        0,
-        0
-      ]
-    }
-  },
-  {
-    "__type__": "cc.SpriteFrame",
-    "content": {
-      "name": "red2",
-      "texture": "8eWMi3qPhADKifEMAWByiD",
-      "rect": [
-        0,
-        0,
-        124,
-        156
-      ],
-      "offset": [
-        0,
-        0
-      ],
-      "originalSize": [
-        124,
-        156
       ],
       "capInsets": [
         0,
@@ -1268,10 +1209,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "猕猴桃",
-      "texture": "1b81b7730",
+      "texture": "13Le2CPjlOLrw0/JNIcPhM",
       "rect": [
-        3,
-        708,
+        0,
+        0,
         153,
         152
       ],
@@ -1283,7 +1224,6 @@
         153,
         152
       ],
-      "rotated": 1,
       "capInsets": [
         0,
         0,
@@ -1296,10 +1236,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "菠萝",
-      "texture": "18858a142",
+      "texture": "c2HQuONkBIbK+1Y23u1fa4",
       "rect": [
-        743,
-        372,
+        0,
+        0,
         24,
         41
       ],
@@ -1311,7 +1251,6 @@
         24,
         41
       ],
-      "rotated": 1,
       "capInsets": [
         0,
         0,
@@ -1324,10 +1263,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "椰子",
-      "texture": "18858a142",
+      "texture": "b1Odi1mLNEHaDvPRc5pU9n",
       "rect": [
-        711,
-        3,
+        1,
+        0,
         318,
         292
       ],
@@ -1339,7 +1278,6 @@
         319,
         292
       ],
-      "rotated": 1,
       "capInsets": [
         0,
         0,
@@ -1352,10 +1290,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "葡萄",
-      "texture": "18858a142",
+      "texture": "adFszcl15Dk657isecN5Xy",
       "rect": [
-        497,
-        327,
+        0,
+        0,
         52,
         52
       ],
@@ -1406,10 +1344,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "5",
-      "texture": "1c9e457da",
+      "texture": "19CuZYXWREsbpGboXrMGP5",
       "rect": [
-        120,
-        3,
+        0,
+        0,
         31,
         20
       ],
@@ -1433,10 +1371,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "桃",
-      "texture": "18858a142",
+      "texture": "bbhcqtGR5AtrldfrXaYVA/",
       "rect": [
-        651,
-        700,
+        1,
+        0,
         318,
         292
       ],
@@ -1448,7 +1386,6 @@
         319,
         292
       ],
-      "rotated": 1,
       "capInsets": [
         0,
         0,
@@ -1487,37 +1424,10 @@
   {
     "__type__": "cc.SpriteFrame",
     "content": {
-      "name": "icon3",
-      "texture": "ccnrbGifFPU5tIX7dIP4YO",
-      "rect": [
-        0,
-        0,
-        176,
-        156
-      ],
-      "offset": [
-        0,
-        0
-      ],
-      "originalSize": [
-        176,
-        156
-      ],
-      "capInsets": [
-        0,
-        0,
-        0,
-        0
-      ]
-    }
-  },
-  {
-    "__type__": "cc.SpriteFrame",
-    "content": {
       "name": "桃",
-      "texture": "1b81b7730",
+      "texture": "66Wg7JbENIWJdMAlUU8qDn",
       "rect": [
-        651,
+        3,
         3,
         186,
         186
@@ -1541,11 +1451,38 @@
   {
     "__type__": "cc.SpriteFrame",
     "content": {
-      "name": "iceCircle",
-      "texture": "1c9e457da",
+      "name": "fuli1",
+      "texture": "47VjEbQ2RBYLx+KZh29Jdw",
       "rect": [
-        3,
-        31,
+        39,
+        42,
+        139,
+        133
+      ],
+      "offset": [
+        0.5,
+        -0.5
+      ],
+      "originalSize": [
+        216,
+        216
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "iceCircle",
+      "texture": "18dkD/iU9H+7Ohh04GiPIx",
+      "rect": [
+        19,
+        14,
         486,
         471
       ],
@@ -1569,10 +1506,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "西瓜1",
-      "texture": "18858a142",
+      "texture": "50NSZsjfNCNo2Co3Xpeg2c",
       "rect": [
-        3,
-        3,
+        2,
+        2,
         404,
         404
       ],
@@ -1596,10 +1533,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "柠檬1",
-      "texture": "18858a142",
+      "texture": "beSMv3mcRKhI9G0SGsi9V1",
       "rect": [
-        687,
-        327,
+        0,
+        1,
         38,
         39
       ],
@@ -1623,10 +1560,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "葡萄1",
-      "texture": "18858a142",
+      "texture": "95Thg4bxZLlIVa4u2r4Kl7",
       "rect": [
-        905,
-        327,
+        1,
+        1,
         37,
         39
       ],
@@ -1830,10 +1767,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "桃1",
-      "texture": "18858a142",
+      "texture": "80BrQDyu9PhJ0Z86rVYNs9",
       "rect": [
-        731,
-        327,
+        0,
+        1,
         38,
         39
       ],
@@ -1862,10 +1799,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "3",
-      "texture": "1c9e457da",
+      "texture": "e9ROHL+p9Ix5DEwF/vMXb8",
       "rect": [
-        3,
-        3,
+        0,
+        0,
         23,
         12
       ],
@@ -1916,10 +1853,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "椰子",
-      "texture": "18858a142",
+      "texture": "5foCZNrL9Ke4kjwQbsO5IV",
       "rect": [
-        3,
-        413,
+        0,
+        0,
         308,
         308
       ],
@@ -2069,10 +2006,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "柠檬",
-      "texture": "18858a142",
+      "texture": "8eXVr1cI5KK5Z9V2W4QR5P",
       "rect": [
-        790,
-        372,
+        0,
+        0,
         24,
         41
       ],
@@ -2084,7 +2021,6 @@
         24,
         41
       ],
-      "rotated": 1,
       "capInsets": [
         0,
         0,
@@ -2308,18 +2244,18 @@
           },
           "adsbutton": [
             {
-              "__uuid__": "8bEQhVsqdIHb1u9XKoOwL+"
+              "__uuid__": "95mhffC/VHl6BpDIlOMmEF"
             },
             {
-              "__uuid__": "40UZ49JRRHWYJHJtZTV6vr"
+              "__uuid__": "44CMk6I5BMHLKJXe1arCK4"
             }
           ],
           "adsbutton2": [
             {
-              "__uuid__": "06IXvbwpRGbJot5Mk4S+BL"
+              "__uuid__": "ddPk35BrdEqJiAzXciE97I"
             },
             {
-              "__uuid__": "6ctrLi9rxJfatFF+AWULn7"
+              "__uuid__": "ddPk35BrdEqJiAzXciE97I"
             }
           ],
           "caidia": [
@@ -2613,7 +2549,7 @@
         "array": [
           0,
           0,
-          404.4338635673329,
+          396.63963493327293,
           0,
           0,
           0,
@@ -2708,7 +2644,7 @@
         "array": [
           0,
           0,
-          404.4338635673329,
+          396.63963493327293,
           0,
           0,
           0,
@@ -2742,7 +2678,7 @@
         "array": [
           0,
           0,
-          404.4338635673329,
+          396.63963493327293,
           0,
           0,
           0,
@@ -4057,14 +3993,14 @@
             }
           ],
           "_spriteFrame": {
-            "__uuid__": "8bEQhVsqdIHb1u9XKoOwL+"
+            "__uuid__": "95mhffC/VHl6BpDIlOMmEF"
           }
         }
       ],
       "_contentSize": {
         "__type__": "cc.Size",
-        "width": 176,
-        "height": 156
+        "width": 139,
+        "height": 133
       },
       "_trs": {
         "__type__": "TypedArray",
@@ -6838,14 +6774,14 @@
             }
           ],
           "_spriteFrame": {
-            "__uuid__": "06IXvbwpRGbJot5Mk4S+BL"
+            "__uuid__": "ddPk35BrdEqJiAzXciE97I"
           }
         }
       ],
       "_contentSize": {
         "__type__": "cc.Size",
-        "width": 124,
-        "height": 156
+        "width": 117,
+        "height": 109
       },
       "_trs": {
         "__type__": "TypedArray",
@@ -6858,8 +6794,8 @@
           0,
           0,
           1,
-          1,
-          1,
+          1.2,
+          1.2,
           1
         ]
       }
@@ -7841,10 +7777,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "flower",
-      "texture": "1b81b7730",
+      "texture": "536Onqp61NfbovIGjz5l72",
       "rect": [
-        564,
-        609,
+        1,
+        1,
         253,
         255
       ],
@@ -7868,10 +7804,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "柠檬",
-      "texture": "1b81b7730",
+      "texture": "74I3BXKIBOH4p4bY7wCh9f",
       "rect": [
-        161,
-        708,
+        0,
+        0,
         119,
         119
       ],
@@ -7922,10 +7858,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "西瓜",
-      "texture": "18858a142",
+      "texture": "8eqYAPJy1ElJnU5T1Vme7+",
       "rect": [
-        837,
-        372,
+        0,
+        0,
         24,
         41
       ],
@@ -7937,7 +7873,6 @@
         24,
         41
       ],
-      "rotated": 1,
       "capInsets": [
         0,
         0,
@@ -7996,10 +7931,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "樱桃",
-      "texture": "18858a142",
+      "texture": "55R3S0ssFFOZeGtOQkAavE",
       "rect": [
-        884,
-        372,
+        0,
+        0,
         24,
         41
       ],
@@ -8011,7 +7946,33 @@
         24,
         41
       ],
-      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "宝箱",
+      "texture": "bcssm8oBxAnImERxJEbh8F",
+      "rect": [
+        1,
+        1,
+        117,
+        109
+      ],
+      "offset": [
+        -1,
+        1
+      ],
+      "originalSize": [
+        121,
+        113
+      ],
       "capInsets": [
         0,
         0,
@@ -8024,10 +7985,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "西红柿",
-      "texture": "1b81b7730",
+      "texture": "03wz9VWTJP94lrgUujqO24",
       "rect": [
-        651,
-        195,
+        0,
+        0,
         183,
         183
       ],
@@ -8078,10 +8039,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "6",
-      "texture": "1c9e457da",
+      "texture": "d7dRTX58pMnrD4/mG455OC",
       "rect": [
-        87,
-        3,
+        0,
+        0,
         18,
         27
       ],
@@ -8093,7 +8054,6 @@
         18,
         27
       ],
-      "rotated": 1,
       "capInsets": [
         0,
         0,
@@ -8106,10 +8066,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "橘子1",
-      "texture": "18858a142",
+      "texture": "6fjigbVlBLXqH+OXUh1wXQ",
       "rect": [
-        775,
-        327,
+        0,
+        1,
         38,
         39
       ],
@@ -8304,10 +8264,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "西红柿",
-      "texture": "18858a142",
+      "texture": "ae0aol/0JF/aec8JnkneKe",
       "rect": [
-        931,
-        372,
+        0,
+        0,
         24,
         41
       ],
@@ -8319,7 +8279,6 @@
         24,
         41
       ],
-      "rotated": 1,
       "capInsets": [
         0,
         0,
@@ -8332,10 +8291,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "柠檬",
-      "texture": "1b81b7730",
+      "texture": "2dUWCjA6RPYJNUO053IAix",
       "rect": [
-        3,
-        3,
+        1,
+        0,
         318,
         292
       ],
@@ -8359,10 +8318,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "猕猴桃",
-      "texture": "1b81b7730",
+      "texture": "a7mM0lQUVLC7/9Ry9Cl36f",
       "rect": [
-        3,
-        384,
+        1,
+        0,
         318,
         291
       ],
@@ -8374,7 +8333,6 @@
         319,
         292
       ],
-      "rotated": 1,
       "capInsets": [
         0,
         0,
@@ -8513,10 +8471,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "7",
-      "texture": "1c9e457da",
+      "texture": "e36xbamtdCNJlwiRYtcuO/",
       "rect": [
-        157,
-        3,
+        0,
+        0,
         31,
         20
       ],
@@ -8545,10 +8503,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "桃",
-      "texture": "18858a142",
+      "texture": "97Qv+7JBJHvby7AJZ8lD7b",
       "rect": [
-        991,
-        327,
+        0,
+        0,
         24,
         41
       ],
@@ -8572,10 +8530,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "西红柿1",
-      "texture": "18858a142",
+      "texture": "ffBKvw4z9DIb4QlJDOO2VH",
       "rect": [
-        948,
-        327,
+        1,
+        1,
         37,
         39
       ],
@@ -8599,10 +8557,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "樱桃",
-      "texture": "1b81b7730",
+      "texture": "db3w/ze2FJD5VaeYQzbFca",
       "rect": [
-        327,
-        3,
+        1,
+        0,
         318,
         292
       ],
@@ -8653,10 +8611,10 @@
     "__type__": "cc.SpriteFrame",
     "content": {
       "name": "2",
-      "texture": "1c9e457da",
+      "texture": "13e4vXA9xHvpTR79esXQp0",
       "rect": [
-        56,
-        3,
+        0,
+        0,
         25,
         15
       ],
